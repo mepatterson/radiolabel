@@ -1,4 +1,4 @@
-import { Controller } from 'stimulus';
+import { Controller } from '@hotwired/stimulus';
 
 function _classCallCheck(instance, Constructor) {
   if (!(instance instanceof Constructor)) {
